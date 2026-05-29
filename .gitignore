@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# TensorFlow Checkpoints
+checkpoint
+*.ckpt
+*.h5
+*.keras
+saved_model/
+
+# Logs
+*.log
+
+# Cache
+.cache/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Dataset (optional)
+dataset/training_set/
+dataset/test_set/
+
+# Outputs
+outputs/
+predictions/
+results/
