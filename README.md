@@ -62,33 +62,9 @@ dataset/
 
 ## CNN Architecture
 
-```text
-Input Image (64 × 64 × 3)
-          │
-          ▼
-Convolution Layer (32 Filters)
-          │
-          ▼
-Max Pooling Layer
-          │
-          ▼
-Convolution Layer (32 Filters)
-          │
-          ▼
-Max Pooling Layer
-          │
-          ▼
-Flatten Layer
-          │
-          ▼
-Fully Connected Layer (128 Units)
-          │
-          ▼
-Output Layer (Sigmoid)
-          │
-          ▼
-Cat / Dog Prediction
-```
+<p align="center">
+  <img src="assets/arch.png" width="100%">
+</p>
 
 ---
 
