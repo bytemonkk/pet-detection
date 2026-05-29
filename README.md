@@ -1,6 +1,6 @@
 # pet-detection
 
-A Convolutional Neural Network (CNN) based image classification project for automatic cat and dog recognition. Built using TensorFlow and Keras, the model performs binary image classification through convolution, pooling, and fully connected layers.
+A Convolutional Neural Network based image classification project for automatic cat and dog recognition. Built using TensorFlow and Keras, the model performs binary image classification through convolution, pooling, and fully connected layers.
 
 <h1 align="center">Pet Detection using CNN</h1>
 
